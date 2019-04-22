@@ -9,11 +9,11 @@ y = input("Ingrese el valor de y \n")
 z = input("Ingrese el valor de z \n");
       
 # Realizando los procesos
-          
+
 m1= float(x)+ float(y)/float(z)
 m2= float(x)-float(y)/float(z); 
 m = m1 / m2
         
-# Presentacion de resultado
+# Presentacion de resultados
 
 print("El valor de m, en base a las variables:\nx =%s\n y=%s \n   z=%s\nda como resultado:\n\tm=%.2f"%(x,y,z,m));

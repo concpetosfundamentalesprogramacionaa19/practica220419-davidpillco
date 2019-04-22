@@ -9,7 +9,7 @@
 costohora = input("Ingrese el precio que cobra por hora \n")
 numhoras = input ("Ingrese el numero de horas que trabaja \n")
 
-#Realizando los calculos
+# Realizando los calculos
 
 pagosinsegu = float(costohora) * float(numhoras)
 suelmensual = float(pagosinsegu) * 0.10
